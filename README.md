@@ -1,6 +1,6 @@
 ## How to install?
 
--   Clone this repository `git clone`
+-   Clone this repository `git clone https://github.com/shahadat015/laravel-chatgpt.git`
 -   Download composer dependencies `composer install`
 -   Download npm dependencies `npm install`
 -   Copy example env file and rename .env `cp .env.example .env`
